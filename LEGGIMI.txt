@@ -1,0 +1,7 @@
+BARBATANO — V4, anteprima multipagina
+Aprire index.html dopo aver estratto l'intera cartella.
+Tutte le 21 fotografie sono conservate nelle gallerie. Il logo SVG contiene tracciati Bézier senza font esterni.
+Il sito non è ancora pronto per la pubblicazione: catalogo e pannello non sono collegati a un database; nessun annuncio inventato. I contatti telefonici sono confermati.
+Prima di andare online: confermare denominazione legale, P.IVA, REA e recapito email/PEC; completare privacy con hosting, tempi di conservazione, eventuali responsabili e moduli. Attivare HTTPS; verificare gli header di sicurezza effettivamente serviti dal provider; per il pannello implementare autenticazione, autorizzazioni, validazione server, backup e aggiornamenti.
+SEO: titoli, descrizioni, pagine autonome, dati strutturati RealEstateAgent e alt immagini già predisposti. Rimuovere noindex/nofollow e modificare robots.txt solo quando il sito sarà pronto; aggiungere canonical assoluti e sitemap con dominio definitivo.
+Nessun cookie o tracker introdotto nel frontend; eventuali cookie dell'hosting devono essere verificati.
