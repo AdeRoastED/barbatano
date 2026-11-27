@@ -1,4 +1,4 @@
-BARBATANO — V7, anteprima multipagina
+BARBATANO — V12, anteprima multipagina
 Aprire index.html dopo aver estratto l'intera cartella.
 Tutte le 21 fotografie sono conservate nelle gallerie. Il logo SVG contiene tracciati Bézier senza font esterni.
 Il sito non è ancora pronto per la pubblicazione: catalogo e pannello non sono collegati a un database; nessun annuncio inventato. I contatti telefonici sono confermati.
@@ -10,3 +10,9 @@ V5: nuovo stile responsive, animazioni leggere CSS, feedback al tocco, menu fiss
 V6: promemoria fisso per valutazione gratuita su tutte le pagine, compatto su smartphone, riducibile su desktop. Il collegamento apre la sezione contatti dedicata; gli appuntamenti sono concordati telefonicamente, non prenotati automaticamente. Nessun cookie o tracker aggiunto.
 
 V7: il Post-it riprende il giallo, la rotazione, le ombre e la comparsa progressiva del testo dal sito Teacher Andrea, con testo verde e posizione fissa. Nessun font o servizio esterno aggiunto.
+
+V9: logo e fascia laterale più grandi su desktop (>1000px); versione mobile invariata.
+
+V11: navigazione automatica tra le cinque pagine con scroll oltre il bordo, swipe orizzontale e verticale al bordo, frecce e pulsanti precedente/successiva. Privacy separata. Transizioni nei browser compatibili.
+
+V12: selettore IT/EN, versione inglese con testi semplificati e privacy tradotta, stesse immagini e risorse condivise.
